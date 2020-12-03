@@ -6,6 +6,17 @@ fetch�ޱ仯��devһ����ͻ��merge���г�ͻ��add��
 
 此刻我在dev上编写 ---- 又写了一点-冲突搞起来
 
+<<<<<<< HEAD
 chongsadf
 
 冲突
+=======
+
+我有额外的commit 1
+
+这个是commit2
+
+当然commit3也需要
+
+最后来个四
+>>>>>>> 40226fc1f3fcae22f64a9f7a90c82cea2cf536d9
